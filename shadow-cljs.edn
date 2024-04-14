@@ -1,5 +1,6 @@
 {:source-paths ["src" "test"]
- :dependencies [[binaryage/devtools "1.0.6"]]
+ :dependencies [[binaryage/devtools "1.0.6"]
+                [com.stuartsierra/component "1.1.0"]]
  :dev-http {8280 "resources/public"
             8290 "target"}
  :builds

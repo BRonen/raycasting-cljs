@@ -1,4 +1,4 @@
-(ns project.core-spec)
+(ns raycasting-cljs.core-spec)
 
 (js/test "Test example"
          (fn []
